@@ -41,7 +41,7 @@ Alguns botões presentes no protótipo possuem links externos que direcionam o u
 ### Tela de contato
 ![Tela de contato](./contato.jpg)
 
-### Tela de serviços
+### Tela de serviço
 ![Tela de serviços](./serviços.jpg)
 
 📚 Área de estudo
