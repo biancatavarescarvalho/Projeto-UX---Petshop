@@ -33,6 +33,17 @@ Alguns botões presentes no protótipo possuem links externos que direcionam o u
 
 "🔗 Visualizar protótipo no Figma" (https://www.figma.com/proto/3EJnOqZANAKayMCLboTpTK/Petshop?node-id=3102-2871&t=BmMhbzVlJ5Kgu6Gi-1&scaling=scale-down&content-scaling=fixed&page-id=3102%3A2864&starting-point-node-id=3102%3A2871&show-proto-sidebar=1)
 
+## 🖼️ Imagens do projeto
+
+### Tela inicial
+![Tela inicial](./home.jpg)
+
+### Tela de contato
+![Tela de contato](./contato.jpg)
+
+### Tela de serviços
+![Tela de serviços](./serviços.jpg)
+
 📚 Área de estudo
 
 Projeto desenvolvido durante os estudos de UX/UI Design, com foco em prototipação, navegação, interação e experiência do usuário.
